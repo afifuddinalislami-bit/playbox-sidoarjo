@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playbox Sidoarjo - Landing Page
 
 Website landing page untuk layanan sewa PlayStation 4 & 5 di Sidoarjo.
@@ -31,3 +32,7 @@ Website ini di-deploy menggunakan GitHub Pages.
 ---
 
 © 2024 Playbox Sidoarjo. Engineered for Elite Gaming.
+=======
+# playbox-sidoarjo
+Landing Page Playbox Sidoarjo
+>>>>>>> 72110808e29e0c3364987a3d6865f72570f8bfa6
